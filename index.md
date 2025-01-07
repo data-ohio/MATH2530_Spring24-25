@@ -11,7 +11,7 @@ nav_order: 1
 
 [Ohio University](https://www.ohio.edu/)
 
-Spring 2023-24
+Spring 2024-25
 
 
 > Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.

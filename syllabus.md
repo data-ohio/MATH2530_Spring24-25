@@ -9,7 +9,7 @@ nav_order: 3
 
 {{ site.full_title }}
 
-Section 100 lecture (class number 7809 and section 101 recitation/laboratory (class number 7810).
+Section 100 lecture (class number 8111) and Section 101 recitation/laboratory (class number 8112).
 
 Instructor 
 : [William Clark](http://www.ohio.edu/cas/clarkw3),
@@ -18,14 +18,14 @@ Instructor
       
 
 Office hours
-: I will make sure to be available in my office Wednesdays 10:00-11:00AM to answer questions and otherwise help. I am happy to help you other times upon request.
+: I will make sure to be available in my office Wednesdays 12:00-1:00PM to answer questions and otherwise help. I am happy to help you other times upon request.
   
 Web page
-: [https://data-ohio.github.io/MATH2530_Spring23-24/](https://data-ohio.github.io/MATH2530_Spring23-24/)      
+: [https://data-ohio.github.io/MATH2530_Spring24-25/](https://data-ohio.github.io/MATH2530_Spring24-25/)      
 
 Class hours/ location
-: Lecture 8:35 AM to 9:30 AM Monday, Wednesday, and Friday.
-  Recitation 8:00 AM to 9:20 AM Tuesday.
+: Lecture 10:45 AM to 11:40 AM Monday, Wednesday, and Friday.
+  Recitation 11:00 AM to 12:20 PM Thursday.
   The "recitation" is really an 80-minute computer laboratory.
   All meetings are in Morton Hall room 314, which is a teaching computer lab.
       
@@ -50,7 +50,7 @@ Tests
 : There will be 4 mid-term tests, one after each chapter in the textbook. Tests are cumulative. 
 
 Final Exam
-: The final exam is on Wednesday, May 3, 12:20-2:20pm.
+: The final exam is on Monday, April 28, 10:10 AM to 12:10 PM.
       
 Grade
 : Your grade is based on 
