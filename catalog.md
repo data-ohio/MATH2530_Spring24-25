@@ -9,7 +9,7 @@ nav_order: 2
 
 {{ site.full_title }}
 
-[Catalog Entry (2023-24)](https://www.catalogs.ohio.edu/preview_course_nopop.php?catoid=75&coid=423264)
+[Catalog Entry (2024-25)](https://www.catalogs.ohio.edu/preview_course_nopop.php?catoid=75&coid=423264)
 
 Description
 : Students learn the basics of data acquisition, organization, and analysis; acquire hands-on experience with statistical estimation and inference, data modelling, and visualization; and explore machine learning applications, data privacy, and ethics.
